@@ -356,7 +356,7 @@ python studio_vision.pyw --selftest report.json --quick
 ---
 
 ## ✅ Self-test
-The app includes 35 automated end-to-end checks that drive the real interface: startup, every tab, all voice
+The app includes 37 automated end-to-end checks that drive the real interface: startup, every tab, all voice
 engines, translation, language detection, karaoke timing, effects, dialogue mode, every audio and subtitle
 format, the interpreter (typed, recognition, microphone), all 9 QR types, 84 QR style combinations (each one
 verified to scan), logos and picture QRs, every export format, scanning, CSV batch, Wi-Fi password privacy, all
