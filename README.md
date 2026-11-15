@@ -5,6 +5,15 @@ interpreter, a QR code designer and scanner, a logo and brand-kit generator, and
 
 Free to use: no API keys, no accounts, no subscriptions. Everything you make stays on your own computer.
 
+## 🎬 Watch it in action
+
+https://github.com/user-attachments/assets/6d5badf3-9c83-40fa-a5f0-974b6dd2c6c2
+
+### [▶ Watch the full 18-minute walkthrough](https://github.com/SohaibMustafa12/StudioVisionAI/releases/download/v3.0.0/StudioVisionAI-Walkthrough.mp4)
+
+A narrated, captioned tour of everything: all six studios in action, every setting and shortcut, every tool and
+library used, how the app is built, and how to install it.
+
 ## ⬇️ Download
 
 **[Download Studio Vision AI for Windows](https://github.com/SohaibMustafa12/StudioVisionAI/releases/latest/download/StudioVisionAI-3.0.0-portable.zip)**
@@ -23,6 +32,7 @@ No admin rights and no Python are needed. To uninstall: **Settings → Apps → 
 ---
 
 ## Contents
+- [Watch it in action](#-watch-it-in-action)
 - [Features](#-features)
   - [Voice Studio](#️-voice-studio)
   - [Live Interpreter](#-live-interpreter)
