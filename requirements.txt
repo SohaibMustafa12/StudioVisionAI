@@ -1,0 +1,16 @@
+PyQt6
+pillow
+qrcode[pil]
+edge-tts>=7.3.1
+deep-translator
+gTTS
+pygame
+numpy
+sounddevice
+soundfile
+opencv-python-headless
+pyttsx3
+SpeechRecognition
+# Optional, heavy (offline voice cloning / offline recognition). The packaged app uses them from your
+# normal Python install if they're there:
+#   pip install f5-tts faster-whisper
